@@ -4,7 +4,6 @@ import com.cluz.hex_client.adapters.out.repository.CustomerRepository;
 import com.cluz.hex_client.adapters.out.repository.mappers.CustomerEntityMapper;
 import com.cluz.hex_client.application.core.domain.Customer;
 import com.cluz.hex_client.application.ports.out.FindCustomerByIdOutputPort;
-import com.cluz.hex_client.application.ports.out.InsertCustomerOutputPort;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

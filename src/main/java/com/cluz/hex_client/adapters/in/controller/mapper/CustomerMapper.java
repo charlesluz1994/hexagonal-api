@@ -4,7 +4,6 @@ import com.cluz.hex_client.adapters.in.controller.request.CustomerRequest;
 import com.cluz.hex_client.adapters.in.controller.response.CustomerResponse;
 import com.cluz.hex_client.application.core.domain.Customer;
 import org.mapstruct.Mapper;
-import org.mapstruct.Mapping;
 
 @Mapper(componentModel = "spring")
 public interface CustomerMapper {
