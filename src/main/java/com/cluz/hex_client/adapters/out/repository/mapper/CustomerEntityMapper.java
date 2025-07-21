@@ -1,4 +1,4 @@
-package com.cluz.hex_client.adapters.out.repository.mappers;
+package com.cluz.hex_client.adapters.out.repository.mapper;
 
 import com.cluz.hex_client.adapters.out.repository.entity.CustomerEntity;
 import com.cluz.hex_client.application.core.domain.Customer;
