@@ -1,4 +1,4 @@
-package com.cluz.hex_client.adapters.out.client.mappers;
+package com.cluz.hex_client.adapters.out.client.mapper;
 
 import com.cluz.hex_client.adapters.out.client.response.AddressResponse;
 import com.cluz.hex_client.application.core.domain.Address;

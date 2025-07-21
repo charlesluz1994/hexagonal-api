@@ -1,7 +1,7 @@
 package com.cluz.hex_client.adapters.out;
 
 import com.cluz.hex_client.adapters.out.client.FindAddressByZipCodeClient;
-import com.cluz.hex_client.adapters.out.client.mappers.AddressMapper;
+import com.cluz.hex_client.adapters.out.client.mapper.AddressMapper;
 import com.cluz.hex_client.application.core.domain.Address;
 import com.cluz.hex_client.application.ports.out.FindAddressByZipCodeOutputPort;
 import lombok.RequiredArgsConstructor;
